@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e9062a5.chunk.css",
+    "main.js": "/static/js/main.8c817108.chunk.js",
+    "main.js.map": "/static/js/main.8c817108.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.250ae96e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.250ae96e.js.map",
+    "static/js/2.1f7bb441.chunk.js": "/static/js/2.1f7bb441.chunk.js",
+    "static/js/2.1f7bb441.chunk.js.map": "/static/js/2.1f7bb441.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.95f5e61c3108668aadcafa8ffe9dfe9d.js": "/precache-manifest.95f5e61c3108668aadcafa8ffe9dfe9d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5e9062a5.chunk.css.map": "/static/css/main.5e9062a5.chunk.css.map",
+    "static/js/2.1f7bb441.chunk.js.LICENSE.txt": "/static/js/2.1f7bb441.chunk.js.LICENSE.txt",
+    "static/media/background__image.jpg": "/static/media/background__image.5ca9c61e.jpg",
+    "static/media/feature__image-first.jpg": "/static/media/feature__image-first.4f68aa59.jpg",
+    "static/media/feature__image-main.jpg": "/static/media/feature__image-main.54c203af.jpg",
+    "static/media/feature__image-second.jpg": "/static/media/feature__image-second.b6dba022.jpg",
+    "static/media/feature__image-third.jpg": "/static/media/feature__image-third.131eff23.jpg",
+    "static/media/main_slider_img.jpg": "/static/media/main_slider_img.f67818e2.jpg",
+    "static/media/menu__image.jpg": "/static/media/menu__image.1e9bad0a.jpg",
+    "static/media/people__image-first.jpg": "/static/media/people__image-first.e36ee8e4.jpg",
+    "static/media/people__image-second.jpg": "/static/media/people__image-second.9f1ace07.jpg",
+    "static/media/people__image-third.jpg": "/static/media/people__image-third.242ef364.jpg",
+    "static/media/pizza_image.jpg": "/static/media/pizza_image.0ed6d53e.jpg",
+    "static/media/pizza_logo.png": "/static/media/pizza_logo.d1cc57cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.250ae96e.js",
+    "static/js/2.1f7bb441.chunk.js",
+    "static/css/main.5e9062a5.chunk.css",
+    "static/js/main.8c817108.chunk.js"
+  ]
+}
